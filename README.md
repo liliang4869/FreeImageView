@@ -13,4 +13,7 @@ implementation 'com.liliang9257:FreeImageview:1.0.1'
     android:src="@drawable/dragonborn"
     />
 ```
+
+### Preview
+ ![img](https://github.com/liliang4869/FreeImageView/blob/main/gif/sample.gif)
  
