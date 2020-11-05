@@ -1,5 +1,5 @@
 # FreeImageView
-ImageView that can be resize/move freely
+Android ImageView that can be resize/move freely
 
 ## Install
 implementation 'com.liliang9257:FreeImageview:1.0.1'
