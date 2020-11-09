@@ -2,7 +2,8 @@
 Android ImageView that can be resize/move freely
 
 ## Setup
-implementation 'com.liliang9257:FreeImageview:1.0.1'
+Gradle:<br>
+implementation 'com.liliang9257:FreeImageview:1.0.1'</br>
 
 ### Usage
 ```xml
